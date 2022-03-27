@@ -1,8 +1,7 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Meowgen", "dad", [122, 121, 128]],
+		["Scratch Post", "dad", [122, 121, 128]]
 	],
 
 	"weekCharacters": [
@@ -12,7 +11,7 @@
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Meeeeow",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,

@@ -1,8 +1,6 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		["pyoro", "pico", [242, 2, 101]]
 	],
 
 	"weekCharacters": [
@@ -12,7 +10,7 @@
 	],
 	"weekBackground": "school",
 
-	"storyName": "hating simulator ft. moawling",
+	"storyName": "nyo nyo",
 	"weekBefore": "week5",
 	"weekName": "Week 6",
 	"startUnlocked": true,
