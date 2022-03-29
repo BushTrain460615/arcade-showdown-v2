@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pigstage.png">
+<SubTexture name="pigstage wave0000" x="0" y="0" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0001" x="804" y="0" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0002" x="1608" y="0" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0003" x="0" y="437" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0004" x="804" y="437" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0005" x="1608" y="437" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0006" x="0" y="874" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0007" x="804" y="874" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0008" x="1608" y="874" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0009" x="0" y="1311" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0010" x="804" y="1311" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+<SubTexture name="pigstage wave0011" x="1608" y="1311" width="804" height="437" frameX="0" frameY="0" frameWidth="804" frameHeight="437" />
+</TextureAtlas>
